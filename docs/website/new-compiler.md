@@ -5,15 +5,13 @@ hide_table_of_contents: true
 
 # New Compiler
 
-The compiler is the part of TurboWarp that converts projects to JavaScript. On September 20, 2025, we released a new compiler that is better at analyzing the scripts inside projects to generate even faster JavaScript.
+The compiler is the part of CattyMod that converts projects to JavaScript. On September 20, 2025, we released a new compiler that is better at analyzing the scripts inside projects to generate even faster JavaScript.
 
-This is the largest single change we've ever made. We've tried to test it thoroughly, but **it's quite likely there are still a few more bugs**. You should report broken projects at [the usual place](https://scratch.mit.edu/users/GarboMuffin/#comments). If your project is broken, you can use https://experiments.turbowarp.org/old-compiler/ instead until we fix the bug in the new compiler.
+This is the largest single change TurboWarp, which is what CattyMod is based on, ever made. We've tried to test it thoroughly, but **it's quite likely there are still a few more bugs**. You should report broken projects at [the usual place](https://scratch.mit.edu/users/GarboMuffin/#comments). If your project is broken, you can use the older editor at https://cattymod.app/editor/ instead until we fix the bug in the new compiler.
 
 :::warning
 The new compiler breaks a small handful of custom extensions. See the [extensions](#extensions) section below for details and workarounds.
 :::
-
-The new compiler is used on the website, the packager, and the desktop app (v1.15.0 and later).
 
 ## Performance comparison {#performance}
 
@@ -30,7 +28,7 @@ The performance gain varies a lot depending on the project. Some projects run tw
     <tbody>
         <tr>
             <td>
-                <div><a href="https://turbowarp.org/1201938491">Linux in Scratch</a></div>
+                <div><a href="https://studio.cattymod.app/#1201938491">Linux in Scratch</a></div>
                 <div>Time until shell</div>
                 <div>Lower is better</div>
             </td>
@@ -39,7 +37,7 @@ The performance gain varies a lot depending on the project. Some projects run tw
         </tr>
         <tr>
             <td>
-                <div><a href="https://turbowarp.org/611788242">Faster SHA-256 Hash</a></div>
+                <div><a href="https://studio.cattymod.app/#611788242">Faster SHA-256 Hash</a></div>
                 <div>Hashes per second</div>
                 <div>Higher is better</div>
             </td>
@@ -48,7 +46,7 @@ The performance gain varies a lot depending on the project. Some projects run tw
         </tr>
         <tr>
             <td>
-                <div><a href="https://turbowarp.org/310372816">Quicksort</a></div>
+                <div><a href="https://studio.cattymod.app/#310372816">Quicksort</a></div>
                 <div>Sort 200000 random items</div>
                 <div>Lower is better</div>
             </td>
@@ -64,15 +62,15 @@ The performance gain varies a lot depending on the project. Some projects run tw
 
 ### Warp timer {#warp-timer}
 
-The [warp timer](warp-timer) forces blocks marked as "run without screen refresh" to briefly pause after running for 500 ms to prevent an infinite loop from causing you to lose unsaved work. This is why the warp timer is automatically enabled when you open the TurboWarp editor.
+The [warp timer](warp-timer) forces blocks marked as "run without screen refresh" to briefly pause after running for 500 ms to prevent an infinite loop from causing you to lose unsaved work. This is why the warp timer is automatically enabled when you open the CattyMod editor.
 
 Unfortunately, the warp timer breaks many of the assumptions that the new compiler uses to optimize projects, so do not expect major performance improvements while you are in the editor or otherwise have the warp timer enabled. They won't run slower than they did in the old compiler, though.
 
 ### Extension compatibility {#extensions}
 
-All extensions included in the TurboWarp extension list will work the same, and a vast majority of custom extensions will also continue to work the same.
+All extensions included in the CattyMod extension list will work the same, and a vast majority of custom extensions will also continue to work the same.
 
-A small handful of custom extensions use an API called `i_will_not_ask_for_help_when_these_break` to integrate more directly with the compiler. We gave this API that crazy name because we knew it was going to break at some point, and we didn't want a small handful of extensions to restrict us from being able to change the compiler's internals when needed. If your project requires these extensions, you can use https://experiments.turbowarp.org/old-compiler/ instead until extensions become compatible.
+A small handful of custom extensions use an API called `i_will_not_ask_for_help_when_these_break` to integrate more directly with the compiler. We gave this API that crazy name because we knew it was going to break at some point, and we didn't want a small handful of extensions to restrict us from being able to change the compiler's internals when needed. If your project requires these extensions, you can use https://experiments.turbowarp.org/old-compiler/ as it'll work better than the older CattyMod editor instead until extensions become compatible.
 
 If you also need to package your project, you can use https://packager-legacy.turbowarp.org/old-compiler/.
 
@@ -114,7 +112,7 @@ If warp timer is enabled or the script is not marked as "run without screen refr
 
 (We manually cleaned up the JavaScript for this page. The actual code has no formatting and does not have meaningful variable names.)
 
-## Credits {#credits}
+## TurboWarp Compiler Credits {#credits}
 
 [Tacodiva](https://scratch.mit.edu/users/Tacodiva7729/) did almost all the work and persevered through an impossibly long review process.
 
