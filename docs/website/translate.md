@@ -3,7 +3,7 @@ slug: /translate
 hide_table_of_contents: true
 ---
 
-# Help Translate TurboWarp
+# Help Translate TurboWarp (This will also help translate CattyMod)
 
 We're looking for people to help translate TurboWarp into languages other than English. If that interests you, read on.
 
