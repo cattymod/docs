@@ -9,11 +9,11 @@ TurboWarp has a section of blocks that allows you to use certain features previo
 
 NEW: TurboWarp now supports unsandboxed extensions which add new blocks! https://extensions.turbowarp.org/
 
-## is compiled? and is TurboWarp? {#is-compiled}
+## is compiled?, is TurboWarp? and is CattyMod? {#is-compiled}
 
 ![is compiled?](./assets/is-compiled.svg)
 
-See https://scratch.mit.edu/projects/414716080/
+See https://scratch.mit.edu/projects/414716080/ however for is CattyMod? look at https://scratch.mit.edu/projects/1351250158/
 
 These blocks are "compatible" with Scratch because they're actually just modified argument reporters.
 
