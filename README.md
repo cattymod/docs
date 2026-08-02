@@ -1,6 +1,6 @@
 # CattyMod Docs
 
-https://docs.cattymod.app/
+https://cattymod.app/docs
 
 This repository contains documentation for CattyMod.
 
