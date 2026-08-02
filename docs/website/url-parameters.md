@@ -30,7 +30,7 @@ It is not possible to use this to connect to Scratch's cloud variable server as 
 
 ## Custom extensions {#extension}
 
-The `extension` option loads a custom extension from a URL. See [Custom Extensions](/development/custom-extensions). It will load sandboxed unless it's from a trusted URL such as cattymod.app.
+The `extension` option loads a custom extension from a URL. See [Custom Extensions](https://docs.turbowarp.org/development/extensions/introduction) on TurboWarp's docs. These will load sandboxed unless it's from a trusted URL such as cattymod.app.
 
 <!-- Commented due to possible removal -->
 <!--
