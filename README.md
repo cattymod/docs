@@ -10,7 +10,7 @@ If you found a typo or have a suggestion to improve the pages, the easiest way t
 
 ## Local Development
 
-This website is built with [Docusaurus](https://docusaurus.io/). Documentation is inside the `docs` folder, generally that is all you will have to touch. We accept pull requests.
+This website is built with [Docusaurus](https://docusaurus.io/). Documentation is inside the `docs` folder, generally that is all you will have to touch.
 
 ```bash
 npm install
