@@ -41,7 +41,7 @@ There are also some special parameters only available in embeds:
 
 ### Autoplay {#autoplay}
 
-Embeds support the `autoplay` parameter, which will automatically hit the green flag when the project loads. For example: https://turbowarp.org/15832807/embed?autoplay
+Embeds support the `autoplay` parameter, which will automatically hit the play button when the project loads. For example: https://studio.cattymod.app/embed?autoplay#15832807
 
 Note that sound blocks may not work until the user interacts with the project (for example, by clicking). This is a restriction imposed by browsers. There is nothing TurboWarp can do to work around this.
 
