@@ -5,15 +5,15 @@ hide_table_of_contents: true
 
 # Embedding
 
-You can use TurboWarp to embed a Scratch project in your website using an `<iframe>`. For the best experience, use this template:
+You can use CattyMod to embed a Scratch project in your website using an `<iframe>`. For the best experience, use this template:
 
 ```html
-<iframe src="https://turbowarp.org/414716080/embed" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style="color-scheme: auto"></iframe>
+<iframe src="https://studio.cattymod.app/embed#414716080" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style="color-scheme: auto"></iframe>
 ```
 
 You should change these attributes appropriately:
 
- - `src="https://turbowarp.org/414716080/embed"` contains the ID of the project you want to embed. You should change this. We're using 414716080 as an example, but you can replace that number with any other project ID. You can also include other URL paramters as listed below.
+ - `src="https://studio.cattymod.app/embed#414716080"` contains the ID of the project you want to embed. You should change this. We're using 414716080 as an example, but you can replace that number with any other project ID. You can also include other URL paramters as listed below.
  - `width="482" height="412"` defines the size of the embed. The player will automatically resize to whatever you specify here, so you can change the numbers. The border around the stage takes two pixels of width and height, and the controls take an extra 50 pixels of height. Thus, to get a 480x360 stage, you would use 482 and 412.
  - Optionally, you may want to add `loading="lazy"` to the attributes which lets the browser wait to load the iframe until the user scrolls closer to it. This can improve performance if the embed is pretty far down the page and doesn't need to be loaded right away.
 
@@ -27,7 +27,7 @@ The rest of the attributes should not be changed. Here's what they do if you wer
 
 Here's what that example embed looks like in action:
 
-<iframe src="https://turbowarp.org/414716080/embed" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style={{colorScheme: "auto"}}></iframe>
+<iframe src="https://studio.cattymod.app/embed#414716080" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style={{colorScheme: "auto"}}></iframe>
 
 ## Unshared projects can't be embedded {#unshared-projects}
 
@@ -47,7 +47,7 @@ Note that sound blocks may not work until the user interacts with the project (f
 
 ### Settings button {#settings-button}
 
-You can optionally enable a settings button in embeds with the `settings-button` parameter that opens a similar menu to the "Advanced settings" menu found in the website and editor. For example: https://turbowarp.org/15832807/embed?autoplay&settings-button
+You can optionally enable a settings button in embeds with the `settings-button` parameter that opens a similar menu to the "Advanced settings" menu found in the website and editor. For example: https://studio.cattymod.app/embed?autoplay&settings-button#15832807
 
 ### Fullscreen background color {#fullscreen-background}
 
@@ -81,7 +81,7 @@ If you use user-supplied information to generate embed links, you should sanitiz
 
 ## Need more control? {#packager}
 
-Use the [TurboWarp Packager](https://packager.turbowarp.org/) for more control over the loading screen, accent colors, controls, and more. You can also [embed the output of the packager](/packager/embedding) very easily.
+Use the [TurboWarp Packager](https://packager.turbowarp.org/) for more control over the loading screen, accent colors, controls, and more. You can also [embed the output of the packager](/packager/embedding) very easily. However, the CattyMod play button will be replaced with the default Scratch green flag.
 
 ## License {#license}
 
