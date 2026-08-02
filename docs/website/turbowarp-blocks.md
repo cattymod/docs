@@ -3,11 +3,11 @@ slug: /blocks
 hide_table_of_contents: true
 ---
 
-# TurboWarp Blocks
+# CattyMod Blocks
 
-TurboWarp has a section of blocks that allows you to use certain features previously not accessible to Scratch projects.
+CattyMod has a section of blocks that allows you to use certain features previously not accessible to Scratch projects.
 
-NEW: TurboWarp now supports unsandboxed extensions which add new blocks! https://extensions.turbowarp.org/
+CattyMod also supports unsandboxed extensions which add new blocks either from https://extensions.turbowarp.org/ or https://cattymod.app/extensions/
 
 ## is compiled?, is TurboWarp? and is CattyMod? {#is-compiled}
 
@@ -18,7 +18,7 @@ See https://scratch.mit.edu/projects/414716080/ however for is CattyMod? look at
 These blocks are "compatible" with Scratch because they're actually just modified argument reporters.
 
 :::warning
-Every block beyond this warning is **incompatible** with Scratch. Projects that use them **cannot** be uploaded to the Scratch website. If you don't use any TurboWarp exclusive blocks, then there should be no issue with making your project in TurboWarp and uploading it to Scratch.
+Every block beyond this warning is **incompatible** with Scratch. Projects that use them **cannot** be uploaded to the Scratch website. If you don't use any CattyMod exclusive blocks, then there should be no issue with making your project in CattyMod and uploading it to Scratch.
 :::
 
 ## last key pressed {#last-key-pressed}
