@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Unshared projects are no longer visible
 
-Unshared projects can no longer be opened on CattyMod, forkphorus, and other third-party sites due to changes to the Scratch API.
+Unshared projects can no longer be opened on CattyMod and other third-party sites due to changes to the Scratch API.
 
 This page answers most of the questions people have and lists some workarounds. Please read it in full before discussing these changes with other people to avoid misinformation.
 
@@ -27,7 +27,7 @@ Unshared projects were always something that just happened to work and weren't t
 
 **For collaborations:** The best way to share a project with other people is to simply share it on the Scratch website. The Scratch community is really nice. This is what Scratch wants you to do. It's okay to share unfinished projects. Scratch is over 10+ years old while CattyMod is way younger than that. Collaborations happened just fine during the years without CattyMod or TurboWarp and will continue just fine.
 
-**For embedding in other websites:** To embed unshared projects in other websites, either Share the project on Scratch or download the project to your computer with the File > Save to your computer menu in the Scratch editor, and use the [TurboWarp Packager](https://packager.turbowarp.org/) to convert this project to a standalone file that [can be embedded](/packager/embedding).
+**For embedding in other websites:** To embed unshared projects in other websites, either Share the project on Scratch or download the project to your computer with the File > Save to your computer menu in the Scratch editor, and use the [TurboWarp Packager](https://packager.turbowarp.org/) to convert this project to a standalone file that [can be embedded](https://docs.turbowarp.org/packager/embedding).
 
 ## This is a good thing {#good-thing}
 
