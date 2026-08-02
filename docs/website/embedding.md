@@ -81,7 +81,7 @@ If you use user-supplied information to generate embed links, you should sanitiz
 
 ## Need more control? {#packager}
 
-Use the [TurboWarp Packager](https://packager.turbowarp.org/) for more control over the loading screen, accent colors, controls, and more. You can also [embed the output of the packager](/packager/embedding) very easily. However, the CattyMod play button will be replaced with the default Scratch green flag.
+Use the [TurboWarp Packager](https://packager.turbowarp.org/) for more control over the loading screen, accent colors, controls, and more. You can also [embed the output of the packager](https://docs.turbowarp.org/packager/embedding) very easily. However, the CattyMod play button will be replaced with the default Scratch green flag.
 
 ## License {#license}
 
