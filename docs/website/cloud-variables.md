@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Cloud Variables
 
-TurboWarp has its own cloud variable server independent of Scratch.
+CattyMod uses TurboWarp's cloud variable server which is independent of Scratch.
 
 Some things to keep in mind:
 
