@@ -17,8 +17,8 @@ module.exports = {
         'website/settings/infinite-clones',
         'website/settings/warp-timer',
         'website/settings/custom-stage-size',
-        'website/settings/disable-compiler'
-      ]
+        'website/settings/disable-compiler',
+      ],
     },
     'website/new-compiler',
     'website/embedding',
@@ -30,39 +30,15 @@ module.exports = {
     'website/translate',
     'website/url-parameters',
     'website/scratch-accounts',
-    'website/donate',
   ],
+
   development: [
     'development/home',
-    {
-      type: 'category',
-      label: 'Custom Extension Tutorial',
-      collapsed: false,
-      items: [
-        'development/extensions/introduction',
-        'development/extensions/hello-world',
-        'development/extensions/inputs',
-        'development/extensions/async',
-        'development/extensions/sandbox',
-        'development/extensions/unsandboxed',
-        'development/extensions/better-development-server',
-        'development/extensions/assorted-apis',
-        'development/extensions/hats',
-        'development/extensions/compatibility',
-        'development/extensions/share',
-        'development/extensions/wrapping-up',
-      ]
-    },
-    'development/getting-started',
-    'development/globals',
-    'development/scratchx'
+    'legacy-redirects/old-custom-extensions',
+    'legacy-redirects/old-unsandboxed-extensions',
   ],
+
   packager: [
     'packager/home',
-    'packager/embedding',
-    'packager/commercial-use',
-    'packager/dynamic-stage-resize',
-    'packager/special-cloud-behaviors',
-    'packager/offline',
-  ]
+  ],
 };
