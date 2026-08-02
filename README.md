@@ -1,14 +1,12 @@
-# TurboWarp Docs
+# CattyMod Docs
 
-https://docs.turbowarp.org/
+https://docs.cattymod.app/
 
-This repository contains documentation for TurboWarp.
+This repository contains documentation for CattyMod.
 
 ## Writing content
 
-If you found a typo or have a suggestion to improve the pages, the easiest way to get it resolved is to post about it on the Scratch profile https://scratch.mit.edu/users/GarboMuffin/#comments or in GitHub issues https://github.com/TurboWarp/docs/issues/new. Alternatively, you can submit a pull request yourself containing a fix.
-
-If you'd like to write a new page, we'd prefer that you ask us first before you spend much time writing.
+If you found a typo or have a suggestion to improve the pages, the easiest way to get it resolved is to post about it on the Scratch Project Link here: https://scratch.mit.edu/projects/1335032585/
 
 ## Local Development
 
