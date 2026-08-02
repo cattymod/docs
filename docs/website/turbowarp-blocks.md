@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 CattyMod has a section of blocks that allows you to use certain features previously not accessible to Scratch projects.
 
-CattyMod also supports unsandboxed extensions which add new blocks either from https://extensions.turbowarp.org/ or https://cattymod.app/extensions/
+CattyMod also supports unsandboxed extensions which add new blocks either from trusted URLs (https://extensions.turbowarp.org/ or https://cattymod.app/extensions/), JS Files or Text.
 
 ## is compiled?, is TurboWarp? and is CattyMod? {#is-compiled}
 
