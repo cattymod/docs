@@ -34,8 +34,6 @@ module.exports = {
 
   development: [
     'development/home',
-    'legacy-redirects/old-custom-extensions',
-    'legacy-redirects/old-unsandboxed-extensions',
   ],
 
   packager: [
