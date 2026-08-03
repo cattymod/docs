@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # CORS: Why your fetch block doesn't work
 
-Anyone who's used the Fetch, HTTP, Network and similar extensions has noticed that when you try to fetch certain websites, even after pressing "Allow", the block just doesn't work:
+Anyone who's used the Fetch, HTTP, Network, Modals and similar extensions has noticed that when you try to fetch certain websites, even after pressing "Allow", the block just doesn't work:
 
 ![](./assets/fetch-google.png)
 
