@@ -22,5 +22,4 @@ To open Tabs Mode:
 
 1. Open the **File** menu
 2. Click **New Tab**
-3. CattyMod will redirect to Tabs Mode
-
+3. CattyMod will redirect to Tabs Mode.
