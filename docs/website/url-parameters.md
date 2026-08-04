@@ -63,7 +63,7 @@ https://studio.cattymod.app/editor?project_title=It+just+works!
 
 ### Addons {#addons}
 
-By default, the editor uses the addons picked by the user. This can be overridden with the `addons` parameter, which is a comma separated list of addon IDs to enable. For example: https://studio.cattymod.app/embed?addons=pause,gamepad,mute-project#15832807
+By default, the editor uses the addons picked by the user. If it's in an embed, there are no addons enabled by default. This can be overridden with the `addons` parameter, which is a comma separated list of addon IDs to enable. For example: https://studio.cattymod.app/embed?addons=pause,gamepad,mute-project#15832807
 
 Useful addons and their IDs:
 
