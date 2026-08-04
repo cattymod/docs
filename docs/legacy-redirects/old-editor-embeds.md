@@ -10,6 +10,6 @@ import {Redirect} from '@docusaurus/router';
     <meta name="robots" content="noindex" />
 </head>
 
-<Redirect to="/editor-embed" />
+<Redirect to="/docs/editor-embed" />
 
-Please go to [the new page](/editor-embed)!
+Please go to [the new page](/docs/editor-embed)!
