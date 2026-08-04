@@ -11,7 +11,7 @@ Just put `https://studio.cattymod.app/editor` in an iframe of any size, but maki
 
 ## URL parameters {#url-parameters}
 
-All [standard URL Parameters](url-parameters.md) are still available. You can use these to control usernames and other things.
+All [standard URL Parameters](url-parameters.md) are available. You can use these to control usernames and other things.
 
 ## Limitations {#limitations}
 - "See Project Page" and "New Tab" are hidden to keep the experience contained when the editor is embedded in another app or site.
