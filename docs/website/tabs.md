@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 Tabs Mode lets you open and work on **multiple Scratch projects at the same time** without closing your current project.
 
-The editor used is powered by [Limited Editor](limited-editor.md). [Click here](https://studio.cattymod.app/tabs) to try the latest version!
+The editor used is powered by [Editor Embeds](editor-embed.md). [Click here](https://studio.cattymod.app/tabs) to try the latest version!
 
 ## Features
 
