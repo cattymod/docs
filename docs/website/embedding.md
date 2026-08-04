@@ -59,22 +59,6 @@ To override this behavior, set the `fullscreen-background` parameter to a CSS co
 
 You can also use hex colors if you escape the `#` with percent encoding: `%23abc123`.
 
-### Addons {#addons}
-
-By default, embeds have no addons enabled. This can be overridden with the `addons` parameter, which is a comma separated list of addon IDs to enable. For example: https://turbowarp.org/15832807/embed?addons=pause,gamepad,mute-project
-
-Useful addons and their IDs:
-
- - "Pause button" is `pause`
- - "Muted project player mode" is `mute-project`
- - "Remove curved stage border" is `remove-curved-stage-border`
- - "File drag and drop" is `drag-drop`
- - "Gamepad support" is `gamepad`
- - "Reverse order of project controls" is `editor-buttons-reverse-order`
- - "Clone counter" is `clones`
-
-Other addons will have no effect on the embed.
-
 ## Security considerations {#security}
 
 If you use user-supplied information to generate embed links, you should sanitize any arguments to make sure users can't supply arbitrary URL parameters as some can lead to unexpected behaviors.
