@@ -13,11 +13,6 @@ module.exports = {
       title: 'CattyMod Docs',
       items: [
         {
-          href: '/packager/',
-          label: 'Packager',
-          position: 'left'
-        },
-        {
           href: '/development/',
           label: 'Development',
           position: 'left'
@@ -33,12 +28,6 @@ module.exports = {
           position: 'right',
         },
       ],
-    },
-    algolia: {
-      // This is all supposed to be public
-      appId: 'HORQ9E5CCA',
-      apiKey: 'c3873ce4208edb896a31bb3e7c2cbdad',
-      indexName: 'turbowarp'
     },
     colorMode: {
       respectPrefersColorScheme: true,
