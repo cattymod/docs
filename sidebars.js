@@ -30,6 +30,8 @@ module.exports = {
     'website/translate',
     'website/url-parameters',
     'website/scratch-accounts',
+    'website/limited-editor',
+    'website/tabs',
   ],
 
   development: [
