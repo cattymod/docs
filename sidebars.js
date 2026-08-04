@@ -33,12 +33,4 @@ module.exports = {
     'website/limited-editor',
     'website/tabs',
   ],
-
-  development: [
-    'development/home',
-  ],
-
-  packager: [
-    'packager/home',
-  ],
 };
