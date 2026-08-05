@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 The compiler is the part of CattyMod that converts projects to JavaScript. On September 20, 2025, we released a new compiler that is better at analyzing the scripts inside projects to generate even faster JavaScript.
 
-This is the largest single change TurboWarp, which is what CattyMod is based on, ever made. We've tried to test it thoroughly, but **it's quite likely there are still a few more bugs**. You should report broken projects at [the usual place](https://scratch.mit.edu/users/GarboMuffin/#comments). If your project is broken, you can use the older editor at https://cattymod.app/editor/ instead until we fix the bug in the new compiler.
+This is the largest single change TurboWarp, which is what CattyMod is based on, ever made. We've tried to test it thoroughly, but **it's quite likely there are still a few more bugs**. You should report broken projects at [in TurboWarp’s usual place](https://scratch.mit.edu/users/GarboMuffin/#comments). If your project is broken, you can use the older editor at https://cattymod.app/previous/ instead until we fix the bug in the new compiler.
 
 :::warning
 The new compiler breaks a small handful of custom extensions. See the [extensions](#extensions) section below for details and workarounds.
@@ -70,7 +70,7 @@ Unfortunately, the warp timer breaks many of the assumptions that the new compil
 
 All extensions included in the CattyMod extension list will work the same, and a vast majority of custom extensions will also continue to work the same.
 
-A small handful of custom extensions use an API called `i_will_not_ask_for_help_when_these_break` to integrate more directly with the compiler. We gave this API that crazy name because we knew it was going to break at some point, and we didn't want a small handful of extensions to restrict us from being able to change the compiler's internals when needed. If the extension you are using requires this API, you can use https://experiments.turbowarp.org/old-compiler/ instead until that extension becomes compatible. We linked TurboWarp's old compiler instead of old CattyMod because that used a different extension systen.
+A small handful of custom extensions use an API called `i_will_not_ask_for_help_when_these_break` to integrate more directly with the compiler. We gave this API that crazy name because we knew it was going to break at some point, and we didn't want a small handful of extensions to restrict us from being able to change the compiler's internals when needed. If the extension you are using requires this API, you can use https://experiments.turbowarp.org/old-compiler/ instead until that extension becomes compatible. We linked TurboWarp's old compiler instead of old CattyMod because ours used a different extension system.
 
 If you also need to package your project, you can use https://packager-legacy.turbowarp.org/old-compiler/.
 
