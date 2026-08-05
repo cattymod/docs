@@ -70,7 +70,7 @@ Unfortunately, the warp timer breaks many of the assumptions that the new compil
 
 All extensions included in the CattyMod extension list will work the same, and a vast majority of custom extensions will also continue to work the same.
 
-A small handful of custom extensions use an API called `i_will_not_ask_for_help_when_these_break` to integrate more directly with the compiler. We gave this API that crazy name because we knew it was going to break at some point, and we didn't want a small handful of extensions to restrict us from being able to change the compiler's internals when needed. If the extension you are using requires this API, you can use https://experiments.turbowarp.org/old-compiler/ instead until that extension becomes compatible. We linked TurboWarp's old compiler instead of old CattyMod because it used a different extension systen.
+A small handful of custom extensions use an API called `i_will_not_ask_for_help_when_these_break` to integrate more directly with the compiler. We gave this API that crazy name because we knew it was going to break at some point, and we didn't want a small handful of extensions to restrict us from being able to change the compiler's internals when needed. If the extension you are using requires this API, you can use https://experiments.turbowarp.org/old-compiler/ instead until that extension becomes compatible. We linked TurboWarp's old compiler instead of old CattyMod because that used a different extension systen.
 
 If you also need to package your project, you can use https://packager-legacy.turbowarp.org/old-compiler/.
 
