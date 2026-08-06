@@ -5,6 +5,11 @@ hide_table_of_contents: true
 
 # Embedding
 
+:::note
+## This is only for embedding the player {#only-embedding-player}
+If you would like to embed the actual CattyMod editor, check out [Embedding the Editor](editor-embed.md).
+:::
+
 You can use CattyMod to embed a Scratch project in your website using an `<iframe>`. For the best experience, use this template:
 
 ```html
