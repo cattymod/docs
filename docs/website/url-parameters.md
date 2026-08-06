@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 :::note
 ## Only "hidden" URL parameters are listed here {#only-hidden-url-parameters-are-listed-here}
-CattyMod will automatically store settings such as turbo mode, 60 FPS, high quality pen, etc. in the URL, but some advanced options still need to be manually applied. This page only documents these advanced options.
+CattyMod will automatically store settings such as turbo mode, 60 FPS, high quality pen, etc. in the URL, but some advanced options still need to be manually applied. This page only documents these advanced options but also some options that might help.
 :::
 
 
@@ -75,5 +75,5 @@ Useful addons and their IDs:
  - "Reverse order of project controls" is `editor-buttons-reverse-order`
  - "Clone counter" is `clones`
 
-You can get other IDs by scrolling to the bottom of [Addons](https://studio.cattymod.app/addons.html) and then click the version and then looking at the addon.
-Some addons will have no effect on the embed such as [Block count](https://studio.cattymod.app/addons.html#block-count).
+You can get other IDs by scrolling to the bottom of [Addons](https://studio.cattymod.app/addons.html) and then clicking the version.
+Some addons will have no effect on an embed such as [Block count](https://studio.cattymod.app/addons.html#block-count).
