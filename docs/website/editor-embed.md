@@ -13,7 +13,7 @@ Just put `https://studio.cattymod.app/editor` in an iframe of any size, but maki
 
 All [standard URL Parameters](url-parameters.md) are available. You can use these to control usernames and other things.
 
-There is a parameter only for here that exists called ?showprojectpage, which shows the "See Project Page" button as it is hidden by default.
+There is a parameter only for here that exists called ?showprojectpage, which shows the "See Project Page" button as it is hidden by default when embedded.
 
 ## Limitations {#limitations}
 - "See Project Page" (Unless you enable it through ?showprojectpage) and "New Tab" are hidden to keep the experience contained when the editor is embedded in another app or site.
