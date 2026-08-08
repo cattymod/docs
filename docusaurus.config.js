@@ -18,6 +18,11 @@ module.exports = {
           position: 'left'
         },
         {
+          href: '/extensions/',
+          label: 'Extensions',
+          position: 'left'
+        },
+        {
           href: 'https://studio.cattymod.app/',
           label: 'CattyMod',
           position: 'right'
