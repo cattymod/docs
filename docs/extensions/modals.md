@@ -93,4 +93,4 @@ See the last thing a prompt has responded with.
 
 ## Notes
 
-All the modal creation related blocks in the [Modals](https://cattymod.app/docs/extensions/modals#modals) section do not wait until a button is pressed when the block runs. You'll have to use wait until `<(button pressed) = ()`.
+All the modal creation related blocks in the Modals section do not wait until a button is pressed when the block runs. You'll have to use `wait until <(button pressed) = ()` to wait until it's finished.
