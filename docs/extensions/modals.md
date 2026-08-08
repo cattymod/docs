@@ -8,7 +8,11 @@ hide_table_of_contents: true
 
 This is a **big** extension that lets you create Modals (pop-up windows) and prompts to ask your users for a response.
 
+Check it out at https://cattymod.app/extensions/
+
 ## All blocks included are:
+
+## Modals
 
 ### `show modal title (Title) text (Text)`
 Show a custom modal with your own Title and Text inside.
@@ -32,6 +36,8 @@ What button did your user press? Check using this block.
 This closes the current modal. It's self explanatory.
 
 ---
+
+## Prompts
 
 ### `<confirm (text)>`
 
@@ -67,6 +73,8 @@ Ask your users to pick a date/time.
 
 ---
 
+## Settings and Status
+
 ### `set accent colour (Colour)`
 
 Set the main colour of a Modal/Prompt to any colour you choose. You can put a colour prompt inside the colour area too!
@@ -82,3 +90,7 @@ Check if a Modal or Prompt is open. Responds either True or False.
 ### `(last prompt result)`
 
 See the last thing a prompt has responded with.
+
+## Notes
+
+All the modal creation related blocks in the [Modals](https://cattymod.app/docs/extensions/modals#modals) section do not wait until a button is pressed when the block runs. You'll have to use wait until `<(button pressed) = ()`.
