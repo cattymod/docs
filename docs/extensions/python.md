@@ -1,6 +1,6 @@
 ---
 slug: /extensions/python
-title: Intro
+title: Python
 hide_table_of_contents: true
 ---
 
