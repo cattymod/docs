@@ -34,7 +34,7 @@ module.exports = {
   ],
   extensions: [
     'extensions/intro',
-    'extensions/python',
     'extensions/modals',
+    'extensions/python',
   ]
 };
