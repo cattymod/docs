@@ -14,15 +14,15 @@ If you are looking to learn it, check out the Python tutorial on [W3Schools](htt
 
 There are a few blocks that exist in this extension:
 
-`Run Python (Command)`
+### `Run Python (Command)`
 
 "Run Python" lets you run a singular command like you could if you open Python itself in your terminal.
 
-`Run Python Script (script.py v)`
+### `Run Python Script (script.py v)`
 
 "Run Python Script" lets you choose a Python script that you have created via the `Open Python Editor` button at the bottom of the extension. These can have multiple lines, unlike the other blocks.
 
-`(Last Python Response`)
+### `(Last Python Response`)
 
 "Last Python Response" lets you see the last thing that Python printed. This can be helpful for transfering data from Python to CattyMod.
 
