@@ -8,6 +8,8 @@ hide_table_of_contents: true
 
 Python is a programming language, as well as an extension in CattyMod. This lets you run commands using [Pyodide](https://pyodide.org/en/stable/) which lets you run Python code online.
 
+Check it out at https://cattymod.app/extensions/
+
 If you are looking to learn it, check out the Python tutorial on [W3Schools](https://www.w3schools.com/python/). That will probably help you.
 
 There are a few blocks that exist in this extension:
