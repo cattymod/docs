@@ -41,4 +41,5 @@ There are a few blocks that exist in this extension:
 ## Notes
 
 - `Install Python Package` uses micropip instead of the regular pip.
-- This extension requires Wi-Fi to get all the scripts needed to run Pyodide
+- This extension requires Wi-Fi to get all the scripts needed to run Pyodide.
+- When you run a command/script, you have to wait for it to **completely** finish and then `(Last Python Response)` will work.
