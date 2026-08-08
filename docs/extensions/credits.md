@@ -1,3 +1,9 @@
+---
+slug: /extensions/credits
+title: Credits
+hide_table_of_contents: true
+---
+
 # Extension Credits
 
 ## Website
