@@ -37,3 +37,8 @@ There are a few blocks that exist in this extension:
 ![Reset Python Block](./images/py-reset.png)
 
 "Reset Python" lets you reset Python for whatever reason. This clears values like variables you set in Python. (for example `x = 5`)
+
+## Notes
+
+"Install Python Package" uses micropip instead of the full pip
+This extension requires Wifi to get all the scripts needed to run Pyodide
