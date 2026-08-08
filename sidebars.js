@@ -32,4 +32,8 @@ module.exports = {
     'website/editor-embed',
     'website/tabs',
   ],
+  extensions: [
+    'extensions/intro',
+    'extensions/python'
+  ]
 };
