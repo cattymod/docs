@@ -11,5 +11,5 @@ Here you will find documentation related to extensions in CattyMod! Not all exte
 You can see all the extensions from CattyMod [here](https://cattymod.app/extensions) in the CattyMod Extension Gallery!
 
 ## Avaliable extensions
-- [Modals](https://cattymod.app/docs/extensions/modals) - Create Scratch 3 style popup windows, embeds, and interactive prompts.
-- [Python](https://cattymod.app/docs/extensions/python) - Run Python code and integrate Python scripts directly into your projects.
+- [Modals](modals.md) - Create Scratch 3 style popup windows, embeds, and interactive prompts.
+- [Python](python.md) - Run Python code and integrate Python scripts directly into your projects.
