@@ -27,7 +27,7 @@ Write text in the JavaScript console with different styles.
 ### `(JavaScript global (text))`
 Get the value of a JavaScript global.
 
-### '(property (text) of global (text))`
+### `(property (text) of global (text))`
 Get a value from a JavaScript Global
 
 ### `(current JavaScript time)`
