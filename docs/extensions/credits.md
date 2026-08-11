@@ -20,3 +20,6 @@ Inspired by [TurboWarp Extension Gallery](https://extensions.turbowarp.org).
 - Python is owned by the [Python Software Foundation](https://www.python.org/psf-landing/).
 - Powered by [Pyodide](https://pyodide.org).
 - This extension is not affiliated with [Python](https://python.org) or [Pyodide](https://pyodide.org).
+
+## JavaScript
+- Icon is based on https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg.
