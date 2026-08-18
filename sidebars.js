@@ -36,7 +36,7 @@ module.exports = {
     'extensions/intro',
     'extensions/modals',
     'extensions/python',
-    'extensions/credits',
     'extensions/javascript',
+    'extensions/credits',
   ]
 };
