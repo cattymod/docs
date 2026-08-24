@@ -30,11 +30,11 @@ There are a few blocks that exist in this extension:
 
 "Python Ready?" lets you see if Python has finished loading yet. You can test this by checking the value of the boolean (which will be false if you do it correctly) while you have "Reset Python" running.
 
-### `Install Python Package (package)`
+### `Add Python Package (package)`
 
 "Install Python Package" lets you install a specific Python Package, such as `requests`. Using this block also builds up a package list stored in your `.sb3` file.
 
-### `Uninstall Python Package (package)`
+### `Remove Python Package (package)`
 
 "Uninstall Python Package" lets you remove a specific Python Package, such as `requests`. Using this block also removes the it from the package list stored in your `.sb3` file.
 
