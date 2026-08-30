@@ -25,7 +25,6 @@ module.exports = {
     'website/how-it-works',
     'website/javascript',
     'website/cors',
-    'website/turbowarp-blocks',
     'website/translate',
     'website/url-parameters',
     'website/scratch-accounts',
@@ -37,6 +36,7 @@ module.exports = {
     'extensions/modals',
     'extensions/python',
     'extensions/javascript',
+    'extensions/blocks',
     'extensions/credits',
   ]
 };
