@@ -16,4 +16,4 @@ You can see all the public extensions from CattyMod [here](https://cattymod.app/
 - [JavaScript](javascript.md) - Run JavaScript commands and more inside of your project.
 
 ## Available CattyMod-only extensions
-- [CattyMod Blocks](https://cattymod.app/docs/extensions/blocks) - Weird new blocks.
+- [CattyMod Blocks](blocks.md) - Weird new blocks.
