@@ -61,7 +61,7 @@ Ask your users for multi-line text.
 
 ### `(choose (Item,Item,Item))`
 
-Ask your users to choose from a list. Seperate them using commas and make sure to not have spaces after each comma.
+Ask your users to choose from a list. Seperate them using commas and make sure to not have spaces after each comma for a better look in the dropdown.
 
 ### `(slider (name) min (smallest amount) max (biggest amount) default (value when you open the prompt))`
 
