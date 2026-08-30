@@ -8,9 +8,12 @@ hide_table_of_contents: true
 
 Here you will find documentation related to extensions in CattyMod! Not all extensions will be documented here however.
 
-You can see all the extensions from CattyMod [here](https://cattymod.app/extensions) in the CattyMod Extension Gallery!
+You can see all the public extensions from CattyMod [here](https://cattymod.app/extensions) in the CattyMod Extension Gallery!
 
-## Avaliable extensions
+## Avaliable public extensions
 - [Modals](modals.md) - Create Scratch 3 style popup windows, embeds, and interactive prompts.
 - [Python](python.md) - Run Python code and integrate Python scripts directly into your projects.
 - [JavaScript](javascript.md) - Run JavaScript commands and more inside of your project.
+
+## Avaliable CattyMod-only extensions
+- [CattyMod Blocks](https://cattymod.app/docs/extensions/blocks) - Weird new blocks.
