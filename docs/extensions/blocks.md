@@ -11,7 +11,7 @@ CattyMod also supports unsandboxed extensions which add new blocks either from t
 
 ## is compiled?, is TurboWarp? and is CattyMod? {#is-compiled}
 
-![is compiled?](./assets/is-compiled.svg)
+![is compiled?](././assets/is-compiled.svg)
 
 See https://scratch.mit.edu/projects/414716080/ however for is CattyMod? look at https://scratch.mit.edu/projects/1351250158/
 
