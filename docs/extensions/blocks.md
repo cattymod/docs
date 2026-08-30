@@ -39,10 +39,10 @@ It's like "mouse down?" but lets you check each individual button. Keep in mind 
  * (1) middle is usually scroll wheel
  * (2) secondary is usually right click (running this block once will disable right click on the stage)
 
-## Get Color Theme {#color-theme}
+## `Get Color Theme` {#color-theme}
 
 This tells you what color you have set as the accent on CattyMod. Fetches using the tw:theme localstorage value.
 
-## Get GUI Theme {#gui-theme}
+## `Get GUI Theme` {#gui-theme}
 
 This tells you what theme (Dark/Light) you have set on CattyMod. Fetches using the tw:theme localstorage value.
