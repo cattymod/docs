@@ -18,5 +18,8 @@ There is a parameter only for here that exists called ?showprojectpage, which sh
 ## Limitations {#limitations}
 - "See Project Page" (Unless you enable it through ?showprojectpage) and "New Tab" are hidden to keep the experience contained when the editor is embedded in another app or site.
 
+## Extras {#extra}
+- You can also embed any CattyMod page but `https://studio.cattymod.app/editor` is the most helpful URL.
+
 ## Official Uses
 - [Tabs Mode](tabs.md)
