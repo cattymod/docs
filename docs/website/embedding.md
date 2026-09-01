@@ -60,7 +60,7 @@ Outside of fullscreen mode, the embed is transparent so you can style the parent
 
 In fullscreen mode, the embed will either use a white or an almost black color depending on whether the user's computer is configured to dark mode or not.
 
-To override this behavior, set the `fullscreen-background` parameter to a CSS color value like `black` or `rgb(50,90,100)`. For example: https://turbowarp.org/15832807/embed?fullscreen-background=yellow
+To override this behavior, set the `fullscreen-background` parameter to a CSS color value like `black` or `rgb(50,90,100)`. For example: https://studio.cattymod.app/embed?fullscreen-background=yellow#15832807
 
 You can also use hex colors if you escape the `#` with percent encoding: `%23abc123`.
 
