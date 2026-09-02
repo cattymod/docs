@@ -2,7 +2,7 @@
 slug: /development/custom-extensions
 ---
 
-# Old URL, redirecting...
+# Not Available
 
 import {Redirect} from '@docusaurus/router';
 
@@ -10,6 +10,4 @@ import {Redirect} from '@docusaurus/router';
     <meta name="robots" content="noindex" />
 </head>
 
-<Redirect to="https://docs.turbowarp.org/development/extensions/introduction" />
-
-Please go to [the new page](https://docs.turbowarp.org/development/extensions/introduction)!
+Please go to [this page](https://docs.turbowarp.org/development/extensions/introduction) on TurboWarp's docs.
