@@ -31,7 +31,7 @@ Get the value of a JavaScript global.
 Get a value from a JavaScript Global
 
 ### `(current JavaScript time)`
-Get the current JavaScript time
+Get how many milliseconds it has been since January 1st, 1970 UTC.
 
 ### `(JavaScript random`)
 Get a random number from the JavaScript random number value.
