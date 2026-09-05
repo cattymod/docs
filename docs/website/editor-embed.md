@@ -20,7 +20,7 @@ There is a parameter only for here that exists called ?showprojectpage, which sh
 - All links on the Homepage (`/`) are going to open in a new tab to prevent escaping CattyMod in the iframe.
 
 ## Extras {#extra}
-- You can also embed any CattyMod page but `https://studio.cattymod.app/editor` is the most helpful URL.
+- You can also embed most CattyMod pages but `https://studio.cattymod.app/editor` is the most helpful URL.
 
 ## Official Uses
 - [Tabs Mode](tabs.md)
