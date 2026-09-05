@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 # Modals
 
-This is a **big** extension that lets you create Modals (pop-up windows) and prompts to ask your users for a response.
+This is a **big** extension that lets you create Modals (pop-up windows) and prompts to tell the user something or ask for a response.
 
 Check it out at https://cattymod.app/extensions/
 
