@@ -16,7 +16,7 @@ All [standard URL Parameters](url-parameters.md) are available. You can use thes
 There is a parameter only for here that exists called ?showprojectpage, which shows the "See Project Page" button as it is hidden by default when embedded.
 
 ## Limitations {#limitations}
-- "See Project Page" (Unless you enable it through ?showprojectpage) and "New Tab" are hidden to keep the experience contained when the editor is embedded in another app or site.
+- See Project Page (Unless you enable it through `?showprojectpage`), New Tab and More Settings are hidden to keep the experience contained when the editor is embedded in another app or site.
 - All links on the Homepage (`/`) are going to open in a new tab to prevent escaping CattyMod in the iframe.
 
 ## Extras {#extra}
