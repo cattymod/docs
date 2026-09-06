@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 :::note
 ## Only "hidden" URL parameters are listed here {#only-hidden-url-parameters-are-listed-here}
-CattyMod will automatically store settings such as turbo mode, 60 FPS, high quality pen, etc. in the URL, but some advanced options still need to be manually applied. This page only documents these advanced options but also some options that might help.
+CattyMod will automatically store settings such as turbo mode, 60 FPS, high quality pen, etc. in the URL, but some advanced options still need to be manually applied. This page only documents these advanced options and ones useful for specific purposes.
 :::
 
 
@@ -63,7 +63,7 @@ https://studio.cattymod.app/editor?project_title=It+just+works!
 
 ### Addons {#addons}
 
-By default, the editor uses the addons picked by the user. If it's in an embed, there are no addons enabled by default. This can be overridden with the `addons` parameter, which is a comma separated list of addon IDs to enable. For example: https://studio.cattymod.app/embed?addons=pause,gamepad,mute-project#15832807
+By default, the editor uses the addons picked by the user. If it's in an embed, there are no addons enabled by default. This can be overridden with the `addons` parameter, which is a comma separated list of addon IDs to enable. For example: https://studio.cattymod.app/editor?addons=pause,gamepad,mute-project#15832807
 
 Useful addons and their IDs:
 
@@ -76,4 +76,3 @@ Useful addons and their IDs:
  - "Clone counter" is `clones`
 
 You can get other IDs by scrolling to the bottom of [Addons](https://studio.cattymod.app/addons.html) and then clicking the version.
-Some addons will have no effect on an embed such as [Block count](https://studio.cattymod.app/addons.html#block-count).
