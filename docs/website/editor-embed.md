@@ -14,10 +14,6 @@ For example, you could do this:
 <iframe src="https://studio.cattymod.app/editor" width="100%" height="100%" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style="color-scheme: auto"></iframe>
 ```
 
-which looks like
-
-<iframe src="https://studio.cattymod.app/editor" width="100%" height="100%" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style="color-scheme: auto"></iframe>
-
 ## URL parameters {#url-parameters}
 
 All [standard URL Parameters](url-parameters.md) are available. You can use these to control usernames and other things.
