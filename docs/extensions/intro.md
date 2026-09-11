@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 # CattyMod Extensions Docs
 
-Here you will find documentation related to extensions in CattyMod! Not all extensions will be documented here however.
+Here you will find documentation related to extensions in CattyMod! However, not all extensions will be documented here.
 
 You can see all the public extensions from CattyMod [here](https://cattymod.app/extensions) in the CattyMod Extension Gallery!
 
