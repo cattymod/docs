@@ -5,9 +5,7 @@ hide_table_of_contents: true
 
 # CattyMod Blocks
 
-CattyMod has a section of blocks that allows you to use certain features previously not accessible to Scratch projects.
-
-CattyMod also supports unsandboxed extensions which add new blocks either from URLs, JS Files or Text.
+CattyMod Blocks is an extension that allows you to use features that aren't too big to be a complete extension, but fit all together into one.
 
 ## `<is compiled?>`, `<is TurboWarp>?` and `<is CattyMod?>` {#is-compiled}
 
