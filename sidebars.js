@@ -37,6 +37,7 @@ module.exports = {
     'extensions/modals',
     'extensions/python',
     'extensions/javascript',
+    'extensions/dangoai',
     'extensions/blocks',
     'extensions/credits',
   ]
