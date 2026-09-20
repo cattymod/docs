@@ -31,7 +31,7 @@ Then, create a custom block as you normally would. To make a custom reporter, ju
 
 Once a return block is hit, it functions similarly to "stop this script".
 
-CattyMod automatically reshapes blocks to what it guesses is the correct shape, but sometimes it guesses wrong. You can always change a block's shape by right clicking on it and then choosing "Changed To Stacked Block" or "Change To Reporter".
+CattyMod automatically reshapes blocks to what it guesses is the correct shape, but sometimes it guesses wrong. You can always change a block's shape by right clicking on it and then choosing "Change To Statement" or "Change To Reporter".
 
 Similarly, if all the return blocks in a custom block contain a boolean (true/false) value such as "1 > 2", then the custom block will also be boolean-shaped. This is just a visual helper as any custom reporter can be dropped into any input.
 
