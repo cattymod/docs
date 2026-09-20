@@ -23,3 +23,6 @@ Inspired by [TurboWarp Extension Gallery](https://extensions.turbowarp.org).
 
 ## JavaScript
 - Icon is based on https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg.
+
+## DangoAI
+- The Bot Icon shown is from [Lucide Icons](https://lucide.dev).
