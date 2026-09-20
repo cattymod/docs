@@ -10,6 +10,11 @@ This is an **AI** extension that lets you chat with an AI chatbot from CattyMod.
 
 Check it out at https://cattymod.app/extensions/
 
+:::info
+This extension is in **beta**. Give your feedback on [**CattyMod Feedback**](https://scratch.mit.edu/projects/1335032585/).
+:::
+
+
 ## All blocks included are:
 
 ### `Set LLM to (AI Model v)`
