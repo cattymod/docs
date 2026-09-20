@@ -14,6 +14,7 @@ You can see all the public extensions from CattyMod [here](https://cattymod.app/
 - [Modals](modals.md) - Create Scratch 3 style popup windows, embeds, and interactive prompts.
 - [Python](python.md) - Run Python code and integrate Python scripts directly into your projects.
 - [JavaScript](javascript.md) - Run JavaScript commands and more inside of your project.
+- [DangoAI](dangoai.md) - Add AI Chatbots to your CattyMod Projects!
 
 ## Available CattyMod-only extensions
 - [CattyMod Blocks](blocks.md) - Weird new blocks.
