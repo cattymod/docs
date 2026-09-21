@@ -23,14 +23,17 @@ Set the AI Chat Model. This block may take some time to run.
 ### `(Chat in Group (group) with message (text))`
 Select a Chat ID (to separate chatrooms) and chat with the AI. This reporter may take some time to run.
 
+### `Set groupwide prompt to (text)`
+Set a prompt that should be remembered in all groups. To clear it, use this block and set the input to completely nothing.
+
 ### `Set Personality for Group (group) to (personality)`
-Set a prompt for the AI in a specific chatroom.
+Set a prompt for the AI in a specific chatroom/group.
 
 ### `Clear Group (group)`
-This block clears all group data of a specific group. Be careful when using this block!
+This block clears all group data of a specific group. Be careful when using this block! This won't remove the groupwide prompt though.
 
 ### `Clear all groups`
-This block clears all group data. Be careful when using this block!
+This block clears all group data. Be careful when using this block! This won't remove the groupwide prompt though.
 
 ### `(current LLM`)
 Gets the current LLM. Responds None when none are loaded.
