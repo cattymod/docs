@@ -20,10 +20,10 @@ This extension is in **beta**. Give your feedback on [**CattyMod Feedback**](htt
 ### `Set LLM to (AI Model v)`
 Set the AI Chat Model. This block may take some time to run.
 
-### `(Chat in Group (group) with message (text)`
+### `(Chat in Group (group) with message (text))`
 Select a Chat ID (to separate chatrooms) and chat with the AI. This reporter may take some time to run.
 
-### `Set Personality for Group (group) to (personality`
+### `Set Personality for Group (group) to (personality)`
 Set a prompt for the AI in a specific chatroom.
 
 ### `Clear Group (group)`
@@ -42,7 +42,7 @@ Responds the status of the chatbot. This is best to show to the user rather than
 Responds the progress of loading the chatbot. If it's equal to nothing, then nothing is happening and chances are no AI Model is loaded. If it's equal to "Model Ready" then the AI is ready to be used. Else if it's not any of these, it's loading.
 
 ### `(AI Error)`
-Responds any errors with the AI Chatbot. You can give feedback by clicking "CattyMod Feedback" in the navbar or going to https://scratch.mit.edu/projects/1335032585/.
+Responds any errors with the AI Chatbot. You can give bug feedback by clicking "CattyMod Feedback" in the navbar or going to https://scratch.mit.edu/projects/1335032585/.
 
 ## Notes
 
