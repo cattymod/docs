@@ -32,7 +32,7 @@ This block clears all group data of a specific group. Be careful when using this
 ### `Clear all groups`
 This block clears all group data. Be careful when using this block!
 
-### `(Current LLM`)
+### `(current LLM`)
 Gets the current LLM. Responds None when none are loaded.
 
 ### `(AI status)`
