@@ -46,5 +46,5 @@ Responds any errors with the AI Chatbot. You can give feedback by clicking "Catt
 
 ## Notes
 
-- Most major web browsers should support WebGPU. This is how this extension works!
-- Some pages might crash when loading an AI Model. This can be due to it being too big. Try other models, but if none of those works, avoid using DangoAI in your projects when on that device.
+- Most major web browsers should support WebGPU which powers WebLLM. This is how DangoAI works!
+- Some pages might crash when loading an AI Model. This can be due to it being too large. Try other models, but if none of those work, avoid using DangoAI in your projects when on that device.
