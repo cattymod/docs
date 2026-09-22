@@ -44,3 +44,7 @@ This tells you what color you have set as the accent on CattyMod. Fetches using 
 ## `(Get GUI Theme)` {#gui-theme}
 
 This tells you what theme (Dark/Light) you have set on CattyMod. Fetches using the tw:theme localstorage value.
+
+## `(Get Go Icon)` {#go-icon}
+
+This tells you the current Go Icon you have set in CattyMod. Responds one of the names from the Settings -> Go Icon menu, depending on the option you chose.
