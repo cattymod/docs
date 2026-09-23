@@ -3,7 +3,7 @@ slug: /unshared-projects
 hide_table_of_contents: true
 ---
 
-# Unshared projects are not visible
+# Unshared projects are not able to be viewed
 
 Unshared projects cannot be opened on CattyMod and other third-party sites due to changes to the Scratch API back in 2023.
 
