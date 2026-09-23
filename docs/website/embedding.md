@@ -36,7 +36,7 @@ Here's what that example embed looks like in action:
 
 ## Unshared projects can't be embedded {#unshared-projects}
 
-Unshared projects [can not be shown in embeds](unshared-projects). Make sure the projects you embed are shared or use the [TurboWarp Packager](https://packager.turbowarp.org/) instead.
+Unshared projects [can not be shown in embeds](unshared-projects). Make sure the projects you embed are shared or use the [CattyMod Packager](https://cattymod.app/packager/) instead.
 
 ## URL parameters {#url-parameters}
 
@@ -74,4 +74,4 @@ Use the [CattyMod Packager](https://cattymod.app/packager) for more control over
 
 ## License {#license}
 
-CattyMod is licensed under the [GPLv3.0](https://github.com/TurboWarp/scratch-gui/blob/develop/LICENSE). We believe that an `<iframe>` of a GPLv3.0 work doesn't create a derivative work under the GPLv3.0, rather it creates an "aggregate work" which is not subject to the same requirements as derivative works. However, we are not lawyers and this is not legal advice. Talk to a lawyer if this matters to you.
+CattyMod is licensed under the [GPLv3.0](https://github.com/TurboWarp/scratch-gui/blob/develop/LICENSE). TurboWarp believes that an `<iframe>` of a GPLv3.0 work doesn't create a derivative work under the GPLv3.0, rather it creates an "aggregate work" which is not subject to the same requirements as derivative works. However, we are not lawyers and this is not legal advice. Talk to a lawyer if this matters to you.
