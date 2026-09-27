@@ -13,7 +13,7 @@ Check it out at https://cattymod.app/extensions/
 ## All blocks included are:
 
 ### `on wakeword (text)`
-This hat block lets you detect when a user says a specified piece of text out loud. This block will not work while `Listen until Pause` is running. This hat block can be used to create **Voice Assistants**.
+This hat block lets you detect when a user says a specified piece of text out loud. This block will not work while `Listen until Pause` is running. This hat block can be used to create **Voice Assistants**. This block may not work properly sometimes.
 
 ### `Listen until Pause`
 This block lets the project listen to the user's microphone until they stop speaking.
