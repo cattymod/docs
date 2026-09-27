@@ -26,3 +26,6 @@ Inspired by [TurboWarp Extension Gallery](https://extensions.turbowarp.org).
 
 ## DangoAI
 - The Bot Icon shown is from [Lucide Icons](https://lucide.dev).
+
+## Speech to Text
+- The extension image was based on [text2speech.png](https://github.com/scratchfoundation/scratch-gui/blob/e0ec0b5a602eb449d39fae6523a034270646b164/src/lib/libraries/extensions/speech2text.png) and then cropped to 600x300.
