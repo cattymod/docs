@@ -10,6 +10,10 @@ This is a **utility** extension that lets you listen to your users' microphone.
 
 Check it out at https://cattymod.app/extensions/
 
+:::info
+This extension is in **beta**. Give your feedback on [**CattyMod Feedback**](https://scratch.mit.edu/projects/1335032585/).
+:::
+
 ## All blocks included are:
 
 ### `on wakeword (text)`
