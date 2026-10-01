@@ -11,7 +11,7 @@ Just put `https://studio.cattymod.app/editor` in an iframe of any size, but maki
 
 For example, you could do this:
 ```html
-<iframe src="https://studio.cattymod.app/editor" width="100%" height="100%" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style="color-scheme: auto"></iframe>
+<iframe src="https://studio.cattymod.app/editor" width="100%" height="100%" allowtransparency="true" frameborder="0" scrolling="yes" allowfullscreen="true" style="color-scheme: auto"></iframe>
 ```
 
 ## URL parameters {#url-parameters}
@@ -25,7 +25,7 @@ There is a parameter only for here that exists called ?showprojectpage, which sh
 - All links on the Homepage (`/`) are going to open in a new tab to prevent escaping CattyMod in the iframe.
 
 ## Extras {#extra}
-- You can also embed most CattyMod pages but `https://studio.cattymod.app/editor` is the most helpful URL.
+- You can also embed most CattyMod pages (e.g. https://cattymod.app) but `https://studio.cattymod.app/editor` is the most helpful URL.
 
 ## Official Uses
 - [Tabs Mode](tabs.md)
