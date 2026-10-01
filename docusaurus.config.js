@@ -13,6 +13,11 @@ module.exports = {
       title: 'CattyMod Docs',
       items: [
         {
+          href: '/packager/',
+          label: 'Packager',
+          position: 'left'
+        },
+        {
           href: '/development/',
           label: 'Development',
           position: 'left'
