@@ -42,5 +42,12 @@ module.exports = {
     'extensions/stt',
     'extensions/blocks',
     'extensions/credits',
+  ],
+  packager: [
+    'packager/home',
+    'packager/embedding',
+    'packager/commercial-use',
+    'packager/dynamic-stage-resize',
+    'packager/special-cloud-behaviors',
   ]
 };
