@@ -16,8 +16,8 @@ This extension is in **beta**. Give your feedback on [**CattyMod Feedback**](htt
 
 ## All blocks included are:
 
-### `Wait Until Wakeword (text) is said`
-This block lets you wait until a user says a specified piece of text out loud. This block will not work properly while `Listen until Pause` is running. This block can be used to create **Voice Assistants**.
+### `on wakeword (text)`
+This hat block lets you detect when a user says a specified piece of text out loud. This block will not work while `Listen until Pause` is running. This hat block can be used to create **Voice Assistants**. This block may not work properly sometimes.
 
 ### `Listen until Pause`
 This block lets the project listen to the user's microphone until they stop speaking.
@@ -27,7 +27,3 @@ This reporter fetches the last piece of text said by the user. This only works f
 
 ### `Cancel All Listening`
 This cancels all `Listen until Pause` blocks. All speech said from the user will be discarded.
-
-## Deprecated Blocks
-### `on wakeword (text)`
-This hat block lets you detect when a user says a specified piece of text out loud. This block will not work while `Listen until Pause` is running. This hat block can be used to create **Voice Assistants**. This block may not work properly sometimes.
