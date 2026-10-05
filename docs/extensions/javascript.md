@@ -13,10 +13,10 @@ Check it out at https://cattymod.app/extensions/
 ## All blocks included are:
 
 ### `eval (command)`
-Run a custom JavaScript command with a prompt to the user to ask if they are sure they want it to run.
+Run a custom JavaScript command.
 
 ### `(eval (command))`
-Run a custom JavaScript command with a prompt to the user to ask if they are sure they want it to run and output the value it responds with.
+Run a custom JavaScript command and return the value it responds with.
 
 ### `(JavaScript type of (text))`
 Get the type of a JavaScript value. That includes string, number, boolean, etc.
@@ -35,3 +35,6 @@ Get how many milliseconds it has been since January 1st, 1970 UTC.
 
 ### `(JavaScript random`)
 Get a random number from the JavaScript random number value.
+
+## Notes
+When using an `eval` block, you’ll be asked for permission the first time you use one during the current session. Once you allow it, you won’t be asked again until the session is reloaded or closed.
