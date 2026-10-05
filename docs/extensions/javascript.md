@@ -16,9 +16,9 @@ Check it out at https://cattymod.app/extensions/
 Run a custom JavaScript command with a prompt to the user to ask if they are sure they want it to run.
 
 ### `(eval (command))`
-Run a custom JavaScript command with a prompt to the user to ask if they are sure they want it to run and also output the value it responds with.
+Run a custom JavaScript command with a prompt to the user to ask if they are sure they want it to run and output the value it responds with.
 
-### `JavaScript type of (text)`
+### `(JavaScript type of (text))`
 Get the type of a JavaScript value. That includes string, number, boolean, etc.
 
 ### `console log (text)`, `console warn (text)` and `console error (text)`
