@@ -11,6 +11,10 @@ hide_table_of_contents: true
 CattyMod will automatically store settings such as turbo mode, 60 FPS, high quality pen, etc. in the URL, but some advanced options still need to be manually applied. This page only documents these advanced options and ones useful for specific purposes.
 :::
 
+## Project ID {#projectid}
+
+Add #123 (replace 123 with the Project ID) to the end of a URL to load that project from Scratch.
+
 
 ## Username {#username}
 
