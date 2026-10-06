@@ -15,7 +15,6 @@ CattyMod will automatically store settings such as turbo mode, 60 FPS, high qual
 
 Add #123 (replace 123 with the Project ID) to the end of a URL to load that project from Scratch.
 
-
 ## Username {#username}
 
 The `username` option controls the value of the username block.
