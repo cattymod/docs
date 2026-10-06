@@ -27,9 +27,9 @@ There is a parameter only for here that exists called ?showprojectpage, which sh
 ## Extras and Notes {#extra}
 - You can also embed most CattyMod pages (e.g. https://cattymod.app) but `https://studio.cattymod.app/editor` is the most helpful URL.
 
-- Custom Default Project will work here. You can force Dango to show up by using #0 in the URL.
+- Custom Default Project will work here. You can force Dango to show up by using `#0` in the URL.
 
-- You can load a Scratch Project using # at the end of the URL, and after it put the project ID.
+- You can load a Scratch Project using `#` at the end of the URL, and after it put the project ID. [You can also see that here](https://cattymod.app/docs/url-parameters#projectid).
 
 ## Official Uses
 - [Tabs Mode](tabs.md)
