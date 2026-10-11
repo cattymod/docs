@@ -47,7 +47,7 @@ This section is for people developing third-party Scratch-related tools.
 
 The new procedure to download projects is to first fetch "project_token" field from `https://api.scratch.mit.edu/projects/ID` then use that to generate the URL `https://projects.scratch.mit.edu/ID?token=TOKEN`
 
-If you're using JavaScript, here's some sample code to get you started that will work in web browsers. If your code is running server-side (eg. Node.js), you should replace `https://trampoline.turbowarp.org/api/projects/` with `https://api.scratch.mit.edu/projects/` as servers are immune to [CORS](website/CORS.md). We make no guarantees about the uptime of trampoline.turbowarp.org; use at your own risk. You may also be interested in [sb-downloader](https://github.com/forkphorus/sb-downloader) (includes easy API) for a complete full project downloader.
+If you're using JavaScript, here's some sample code to get you started that will work in web browsers. If your code is running server-side (eg. Node.js), you should replace `https://trampoline.turbowarp.org/api/projects/` with `https://api.scratch.mit.edu/projects/` as servers are immune to [CORS](website/cors.md). We make no guarantees about the uptime of trampoline.turbowarp.org; use at your own risk. You may also be interested in [sb-downloader](https://github.com/forkphorus/sb-downloader) (includes easy API) for a complete full project downloader.
 
 ```js
 const getProjectMetadata = async (projectId) => {
