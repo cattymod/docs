@@ -6,7 +6,7 @@ This repository contains documentation for CattyMod.
 
 ## Writing content
 
-If you found a typo or have a suggestion to improve the pages, the easiest way to get it resolved is to post about it on the Scratch Project Link here: https://scratch.mit.edu/projects/1335032585/
+If you found a typo or have a suggestion to improve the pages, the easiest way to get it resolved is to post about it on CattyMod Feedback: https://cattymod.app/feedback
 
 ## Local Development
 
