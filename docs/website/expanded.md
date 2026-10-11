@@ -16,3 +16,11 @@ Custom Default Project lets you change the default [Dango Project](https://studi
 ### Mobile Touch Controls
 
 Enabled by default, Mobile Touch Controls makes it so when you are in Fullscreen mode and are in portrait mode, you'll have some controls for mobile devices popping up. You can disable this option to hide the controls and make them never appear.
+
+### Navigation Position
+
+Align the navigation bar to the left, right or center!
+
+### CattyMod Copilot
+
+Enable/Disable the AI assistant created by CattyMod. It uses Local AI and you can ask it nearly anything!
