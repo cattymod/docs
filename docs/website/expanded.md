@@ -27,20 +27,12 @@ Select an icon for CattyMod's Play Button.
 
 Choose the accent color for CattyMod to use.
 
-### Navigation Position
-
-Align the navigation bar to the left, right or center!
-
-### CattyMod Navbar Logo
-
-Disable/Enable the CattyMod Logo in the navbar, which also serves as a link to https://cattymod.app!
-
-
 ---
 
 ### Custom Default Project
 
 Custom Default Project lets you change the default [Dango Project](https://studio.cattymod.app/#0) to something you want it to be. Say ScratchCat or a custom sprite! Just input the project ID from [Scratch](https://scratch.mit.edu) and it'll show up.
+
 
 ### Picture in Picture
 
@@ -51,6 +43,24 @@ Let yourself watch your favorite animations whilst doing other tasks. Note that 
 ### Mobile Touch Controls
 
 Enabled by default, Mobile Touch Controls makes it so when you are in Fullscreen mode and are in portrait mode, you'll have some controls for mobile devices popping up. You can disable this option to hide the controls and make them never appear.
+
+---
+
+### Navigation Position
+
+Align the navigation bar to the left, right or center!
+
+### CattyMod Navbar Logo
+
+Disable/Enable the CattyMod Logo in the navbar, which also serves as a link to https://cattymod.app!
+
+### Addons Menu Option
+
+Show or hide Addons in the menu bar. You can always open Addons by clicking Settings, then Expand (to get here), then Addons.
+
+### Advanced Menu Option
+
+Show or hide Advanced in the menu bar. You can always open it by clicking Edit, then Advanced Settings.
 
 ---
 
