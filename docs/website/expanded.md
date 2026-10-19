@@ -67,3 +67,11 @@ Show or hide Advanced in the menu bar. You can always open it by clicking Edit, 
 ### CattyMod Copilot
 
 Enable/Disable the AI assistant created by CattyMod. It uses Local AI and you can ask it nearly anything!
+
+
+---
+## Danger Zone
+
+### Clear All Data
+
+Permanently clears all localStorage data saved by CattyMod, including CattyMod settings and preferences. This action cannot be undone.
