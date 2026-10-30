@@ -64,11 +64,11 @@ The `project_title` option tells CattyMod what to name the project. Works with `
 
 https://studio.cattymod.app/editor?project_title=It+just+works!
 
-### Addons {#addons}
+### Mods {#addons}
 
-By default, the editor uses the addons picked by the user. If it's in an embed, there are no addons enabled by default. This can be overridden with the `addons` parameter, which is a comma separated list of addon IDs to enable. For example: https://studio.cattymod.app/editor?addons=pause,gamepad,mute-project#15832807
+By default, the editor uses the addons picked by the user. If it's in an embed, there are no addons enabled by default. This can be overridden with the `addons` parameter, which is a comma separated list of Mod IDs to enable. For example: https://studio.cattymod.app/editor?addons=pause,gamepad,mute-project#15832807
 
-Useful addons and their IDs:
+Useful mods and their IDs:
 
  - "Pause button" is `pause`
  - "Muted project player mode" is `mute-project`
@@ -78,4 +78,4 @@ Useful addons and their IDs:
  - "Reverse order of project controls" is `editor-buttons-reverse-order`
  - "Clone counter" is `clones`
 
-You can get other IDs by scrolling to the bottom of [Addons](https://studio.cattymod.app/addons.html) and then clicking the version.
+You can get other IDs by scrolling to the bottom of [Mods](https://studio.cattymod.app/addons.html) and then clicking the version.
