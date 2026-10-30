@@ -54,9 +54,9 @@ Align the navigation bar to the left, right or center!
 
 Disable/Enable the CattyMod Logo in the navbar, which also serves as a link to https://cattymod.app!
 
-### Addons Menu Option
+### Mods Menu Option
 
-Show or hide Addons in the menu bar. You can always open Addons by clicking Settings, then Expand (to get here), then Addons.
+Show or hide Mods in the menu bar. You can always open Mods by clicking Settings, then Expand (to get here), then Mods.
 
 ### Advanced Menu Option
 
