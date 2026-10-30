@@ -19,7 +19,7 @@ We want to be clear: These changes were made by the Scratch Team. CattyMod is a 
 
 Downloading a project from the Scratch API requires a "project token" that, for unshared projects, can only be accessed by the owner of the project. Even if you're signed in to your Scratch account in the same browser, CattyMod can't access it. These tokens are temporary and expire after a few minutes, so the owner can't just provide a token once to keep it visible forever.
 
-Unshared projects were always something that just happened to work and weren't the intended main use of any Scratch 3 Mod. Things like the compiler and addons have always been the focus and will continue to work for shared projects, projects loaded from files, and the desktop app.
+Unshared projects were always something that just happened to work and weren't the intended main use of any Scratch 3 Mod. Things like the compiler and Mods have always been the focus and will continue to work for shared projects, projects loaded from files, and the desktop app.
 
 ## Workarounds {#workarounds}
 
