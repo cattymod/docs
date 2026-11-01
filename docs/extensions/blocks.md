@@ -11,7 +11,7 @@ CattyMod Blocks is an extension that allows you to use features that aren't too 
 
 ![is compiled?](./assets/is-compiled.svg)
 
-See https://scratch.mit.edu/projects/414716080/ however for is CattyMod? look at https://scratch.mit.edu/projects/1351250158/
+See https://scratch.mit.edu/projects/414716080/ for the first two, however, for `<is CattyMod?>` you can look at https://scratch.mit.edu/projects/1351250158/.
 
 These blocks are "compatible" with Scratch because they're actually just modified argument reporters.
 
