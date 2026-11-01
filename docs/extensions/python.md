@@ -32,11 +32,11 @@ There are a few blocks that exist in this extension:
 
 ### `Add Python Package (package)`
 
-"Install Python Package" lets you install a specific Python Package, such as `requests`. Using this block also builds up a package list stored in your `.sb3` file.
+"Add Python Package" lets you install a specific Python Package, such as `requests`. Using this block also builds up a package list stored in your `.sb3` file.
 
 ### `Remove Python Package (package)`
 
-"Uninstall Python Package" lets you remove a specific Python Package, such as `requests`. Using this block also removes the it from the package list stored in your `.sb3` file.
+"Remove Python Package" lets you remove a specific Python Package, such as `requests`. Using this block also removes the it from the package list stored in your `.sb3` file.
 
 ### `Reset Python`
 
