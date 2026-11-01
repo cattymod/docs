@@ -11,4 +11,4 @@ This option turns off TurboWarp's compiler, which lets script update immediately
 Never change this unless you really know what you're doing.
 :::
 
-You can enable the "Disable compiler in editor" addon to turn the compiler off by default in the editor.
+You can enable the "Disable compiler in editor" mod to turn the compiler off by default in the editor.
