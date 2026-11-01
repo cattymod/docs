@@ -16,6 +16,7 @@ You can see all the public extensions from CattyMod [here](https://cattymod.app/
 - [JavaScript](javascript.md) - Run JavaScript commands and more inside of your project.
 - [DangoAI](dangoai.md) - Add AI Chatbots to your CattyMod Projects!
 - [Speech to Text](stt.md) - Speak to your projects!
+- [Audio Recorder](dangoaudio.md) - Record your voice in CattyMod!
 
 ## Available CattyMod-only extensions
 - [CattyMod Blocks](blocks.md) - Weird new blocks.
