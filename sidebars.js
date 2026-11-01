@@ -40,6 +40,7 @@ module.exports = {
     'extensions/javascript',
     'extensions/dangoai',
     'extensions/stt',
+    'extensions/dangoaudio',
     'extensions/blocks',
     'extensions/credits',
   ],
