@@ -14,4 +14,4 @@ Related projects:
  - [CattyMod Extension Gallery](https://cattymod.app/extensions/)
  - [Scrooch 3](https://scrooch.cattymod.app/)
 
-These pages are [open source](https://github.com/cattymod/docs) if you want to create your own docs.
+These pages are [open source](https://github.com/cattymod/docs), so you can freely look at the code for yourself!
