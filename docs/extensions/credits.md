@@ -32,3 +32,9 @@ Inspired by [TurboWarp Extension Gallery](https://extensions.turbowarp.org).
 
 ## I'm not a robot
 - Based on Modals, edits by [@Noahscratch493](https://me.cattymod.app).
+
+## CattyMod Blocks
+
+Tool icon is from https://svgsilh.com/ru/image/1294338.html under public domain.
+
+Gear icon is from https://www.iconfinder.com/icons/211751/gear_icon under the MIT License.
