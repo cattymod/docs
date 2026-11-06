@@ -12,7 +12,7 @@ Inspired by [TurboWarp Extension Gallery](https://extensions.turbowarp.org).
 ## Modals
  - Icon created by [@BlueDome77](https://github.com/BlueDome77) for the Window Controls extension Collaboration.
  - The dango from the icon is inspried by the dango emoji from [Twemoji](https://twemoji.twitter.com/) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
- - Icon modified by [@Noahscratch493](https://github.com/Noahscratch493).
+ - Icon modified by [@Noahscratch493](https://me.cattymod.app).
  - Licensed under [GNU General Public License version 3](https://github.com/TurboWarp/extensions/blob/master/licenses/GPL-3.0.txt).
 
 ## Python
@@ -29,3 +29,6 @@ Inspired by [TurboWarp Extension Gallery](https://extensions.turbowarp.org).
 
 ## Speech to Text
 - The extension image was based on [text2speech.png](https://github.com/scratchfoundation/scratch-gui/blob/e0ec0b5a602eb449d39fae6523a034270646b164/src/lib/libraries/extensions/speech2text.png) and then cropped to 600x300.
+
+## I'm not a robot
+- Based on Modals, edits by [@Noahscratch493](https://me.cattymod.app).
