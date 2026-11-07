@@ -12,15 +12,15 @@ Check it out at https://cattymod.app/extensions/
 
 ## All blocks included are:
 
-## set Challenge Difficulty to [Difficulty v]
+## `set Challenge Difficulty to [Difficulty v]`
 This block lets you change the difficulty. You can choose from:
   - Auto (Chooses it for you)
   - Easy
   - Moderate
   - Difficult
 
-## set theme to [Theme v]
+## `set theme to [Theme v]`
 This block lets you set a background theme. This affects the modal and Captcha. You can choose Light or Dark.
 
-## <am I not a robot?>
+## `<am I not a robot?>`
 This is the primary block/boolean of this extension. This will open a modal for the Captcha, and report true if the user finishes correctly, else, false.
