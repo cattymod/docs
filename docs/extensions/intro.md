@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 # CattyMod Extensions Docs
 
-Here you will find documentation related to extensions in CattyMod! However, not all extensions will be documented here.
+Here you will find documentation related to extensions in CattyMod! However, some extensions might not be documented here.
 
 You can see all the public extensions from CattyMod [here](https://cattymod.app/extensions) in the CattyMod Extension Gallery!
 
@@ -17,6 +17,7 @@ You can see all the public extensions from CattyMod [here](https://cattymod.app/
 - [DangoAI](dangoai.md) - Add AI Chatbots to your CattyMod Projects!
 - [Speech to Text](stt.md) - Speak to your projects!
 - [Audio Recorder](dangoaudio.md) - Record your voice in CattyMod!
+- [I’m not a robot](captcha.md) - Use Captcha tests in CattyMod, powered by hCaptcha!
 
 ## Available CattyMod-only extensions
 - [CattyMod Blocks](blocks.md) - Weird new blocks.
