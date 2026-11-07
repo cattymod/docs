@@ -41,6 +41,7 @@ module.exports = {
     'extensions/dangoai',
     'extensions/stt',
     'extensions/dangoaudio',
+    'extensions/captcha',
     'extensions/blocks',
     'extensions/credits',
   ],
