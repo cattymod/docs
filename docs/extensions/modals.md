@@ -73,6 +73,22 @@ Ask your users to pick a date/time.
 
 ---
 
+## Icons
+
+### `set window icon to Lucide Icon ID (ID)`
+
+Set the icon displayed in the title bar of all Modals and Prompts. Uses a Lucide icon ID.
+
+### `remove all icons`
+
+Remove the configured window/heading icons from Modals and Prompts.
+
+### `add heading icon from Lucide Icon ID (ID)`
+
+Add a heading icon to the next eligible Modal or Prompt. The icon appears inside a rounded square above the modal's body.
+
+---
+
 ## Settings and Status
 
 ### `set accent colour (Colour)`
@@ -96,3 +112,7 @@ See the last thing a prompt has responded with.
 - All the modal creation related blocks in the Modals section do not wait until a button is pressed when the block runs. You'll have to use `wait until <(button pressed) = ()>` to wait until it's finished.
 
 - You can add extra buttons to prompts by using the `add button called (Text) to current modal` block in another script to add buttons. However, you’ll need to use `(button pressed)` to get the selected one as `(last prompt result)` will not provide it.
+
+- Lucide Icon IDs are the names used by [Lucide](https://lucide.dev), such as `house`, `settings`, or `circle-check`.
+
+- Heading icons are not displayed in HTML or webpage modals.
