@@ -75,17 +75,13 @@ Ask your users to pick a date/time.
 
 ## Icons
 
-### `set window icon to Lucide Icon ID (ID)`
+### `set [icon v] to Lucide Icon ID (ID)`
 
-Set the icon displayed in the title bar of all Modals and Prompts. Uses a Lucide icon ID.
+Add icons to Modals and Prompts. Heading icons appear inside a rounded square above the modal's body, and Window icons appear in the titlebar.
 
 ### `remove all icons`
 
 Remove the configured window/heading icons from Modals and Prompts.
-
-### `set heading icon to Lucide Icon ID (ID)`
-
-Add a heading icon to the next eligible Modal or Prompt. The icon appears inside a rounded square above the modal's body.
 
 ---
 
