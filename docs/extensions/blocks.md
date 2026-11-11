@@ -11,7 +11,7 @@ CattyMod Blocks is an extension that allows you to use features that aren't too 
 
 ![is compiled?](./assets/is-compiled.svg)
 
-See https://scratch.mit.edu/projects/414716080/ for the first two, however, for `<is CattyMod?>` you can look at https://scratch.mit.edu/projects/1351250158/.
+See https://scratch.mit.edu/projects/414716080/ for the first two, however, for `\<is CattyMod?>` you can look at https://scratch.mit.edu/projects/1351250158/.
 
 These blocks are "compatible" with Scratch because they're actually just modified argument reporters.
 
@@ -33,18 +33,37 @@ It tells you the last key that was pressed. It's intended to be used something l
 
 It's like "mouse down?" but lets you check each individual button. Keep in mind that due to how Scratch interprets mouse input, it's possible for a block like "is primary mouse button down?" to report true while the standard "mouse down?" reports false.
 
- * (0) primary is usually left click
- * (1) middle is usually scroll wheel
- * (2) secondary is usually right click (running this block once will disable right click on the stage)
+* (0) primary is usually left click
+* (1) middle is usually scroll wheel
+* (2) secondary is usually right click (running this block once will disable right click on the stage)
 
 ## `(Get Accent Theme)` {#color-theme}
 
-This tells you what color you have set as the accent on CattyMod. Fetches using the tw:theme localstorage value.
+This tells you what color you have set as the accent on CattyMod. Fetches using the `tw:theme` localstorage value.
 
 ## `(Get GUI Theme)` {#gui-theme}
 
-This tells you what theme (Light/Dark/Midnight) you have set on CattyMod. Fetches using the tw:theme localstorage value.
+This tells you what theme (Light/Dark/Midnight) you have set on CattyMod. Fetches using the `tw:theme` localstorage value.
 
 ## `(Get Go Icon)` {#go-icon}
 
 This tells you the current Go Icon you have set in CattyMod. Responds one of the names from the Settings -> Go Icon menu, depending on the option you chose.
+
+## `Switch Layout to [Player v]` {#switch-layout}
+
+This block allows you to switch between the different CattyMod layouts:
+
+* **Player**: Switches to the Player layout (`/`).
+* **Editor**: Switches to the Editor layout (`/editor`).
+* **Fullscreen**: Enters the Fullscreen layout (`/fullscreen`).
+
+If you're already in the requested layout, nothing happens.
+
+## `(Current Layout)` {#current-layout}
+
+Returns the name of the current CattyMod layout:
+
+* `player`
+* `editor`
+* `fullscreen`
+* `unknown` (if the current URL doesn't match a recognized layout)
