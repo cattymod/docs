@@ -11,7 +11,7 @@ CattyMod Blocks is an extension that allows you to use features that aren't too 
 
 ![is compiled?](./assets/is-compiled.svg)
 
-See https://scratch.mit.edu/projects/414716080/ for the first two, however, for `\<is CattyMod?>` you can look at https://scratch.mit.edu/projects/1351250158/.
+See https://scratch.mit.edu/projects/414716080/ for the first two, however, for `<is CattyMod?>` you can look at https://scratch.mit.edu/projects/1351250158/.
 
 These blocks are "compatible" with Scratch because they're actually just modified argument reporters.
 
@@ -36,6 +36,10 @@ It's like "mouse down?" but lets you check each individual button. Keep in mind 
 * (0) primary is usually left click
 * (1) middle is usually scroll wheel
 * (2) secondary is usually right click (running this block once will disable right click on the stage)
+
+:::warning
+Every block beyond this warning are **incompatible** with other Scratch mods and Scratch itself. These blocks can only be used on CattyMod.
+:::
 
 ## `(Get Accent Theme)` {#color-theme}
 
