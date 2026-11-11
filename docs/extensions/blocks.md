@@ -11,12 +11,12 @@ CattyMod Blocks is an extension that allows you to use features that aren't too 
 
 ![is compiled?](./assets/is-compiled.svg)
 
-See https://scratch.mit.edu/projects/414716080/ for the first two, however, for `<is CattyMod?>` you can look at https://scratch.mit.edu/projects/1351250158/.
+See https://scratch.mit.edu/projects/414716080/ for the first two, however, for `<is CattyMod?>`, you can look at https://scratch.mit.edu/projects/1351250158/.
 
 These blocks are "compatible" with Scratch because they're actually just modified argument reporters.
 
 :::warning
-Every block beyond this warning is **incompatible** with Scratch. Projects that use them **cannot** be uploaded to the Scratch website. If you don't use any CattyMod exclusive blocks, then there should be no issue with making your project in CattyMod and uploading it to Scratch.
+Every block beyond this warning is **incompatible** with Scratch. Projects that use them **cannot** be uploaded to the Scratch website. If you don't use any of these blocks, then there should be no issue with making your project in CattyMod and uploading it to Scratch.
 :::
 
 ## `(last key pressed)` {#last-key-pressed}
