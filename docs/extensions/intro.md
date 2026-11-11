@@ -20,4 +20,4 @@ You can see all the public extensions from CattyMod [here](https://cattymod.app/
 - [I’m not a robot](captcha.md) - Use Captcha tests in CattyMod, powered by hCaptcha!
 
 ## Available CattyMod-only extensions
-- [CattyMod Blocks](blocks.md) - Weird new blocks.
+- [CattyMod Blocks](blocks.md) - A collection of useful, unusual, and CattyMod-exclusive blocks.
